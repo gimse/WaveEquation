@@ -12,10 +12,12 @@ Run the main.m file
 MATLAB 2016a
 
 ## Screencapture
-[alt text](https://github.com/gimse/WaveEquationWithEulerForward/blob/master/demo1.gif)
-[alt text](https://github.com/gimse/WaveEquationWithEulerForward/blob/master/demo2.gif)
+
+[Gif of waves](https://github.com/gimse/WaveEquationWithEulerForward/blob/master/demo1.gif)
+
+[Gif of waves](https://github.com/gimse/WaveEquationWithEulerForward/blob/master/demo2.gif)
 
 ## Authors
 
-* **Håkon Gimse** - *Initial work* - [gimse](https://github.com/gimse)
+* **HÃ¥kon Gimse** - *Initial work* - [gimse](https://github.com/gimse)
 
