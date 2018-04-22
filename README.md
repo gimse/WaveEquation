@@ -13,7 +13,6 @@ MATLAB 2016a
 
 ## Screencapture
 [alt text](https://github.com/gimse/WaveEquationWithEulerForward/blob/master/demo1.gif)
-[alt text](https://github.com/gimse/WaveEquationWithEulerForward/blob/master/demo2.gif)
 
 ## Authors
 
