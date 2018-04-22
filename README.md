@@ -12,6 +12,7 @@ Run the main.m file
 MATLAB 2016a
 
 ## Screencapture
+
 [alt text](https://github.com/gimse/WaveEquationWithEulerForward/blob/master/demo1.gif)
 
 ## Authors
