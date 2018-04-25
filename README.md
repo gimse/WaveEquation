@@ -1,6 +1,6 @@
 # Wave Equation With Euler Forward
 
-Solving the wave equation, and showing that the Euler forward is a unstable
+Solving the wave equation, and showing that Euler forward is a unstable
 method.
 
 ## Screencapture
