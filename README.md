@@ -5,8 +5,8 @@ method.
 
 ## Screencapture
 
-![Demo image 1](https://github.com/gimse/WaveEquation/blob/master/demo1.gif)
-![Demo image 2](https://github.com/gimse/WaveEquation/blob/master/demo2.gif)
+![Demo image 1](demo1.gif)
+![Demo image 2](demo2.gif)
 
 ## Getting Started
 
